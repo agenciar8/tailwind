@@ -1,0 +1,27 @@
+{
+  "name": "gulp",
+  "version": "5.0.0",
+  "description": "Gulp",
+  "main": "index.js",
+  "author": "Geisa",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp"
+  },
+  "dependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "browser-sync": "^3.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify": "^3.0.2",
+    "preline": "^2.7.0",
+    "sass": "^1.44.0"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "tailwindcss": "^3.4.17"
+  }
+}
